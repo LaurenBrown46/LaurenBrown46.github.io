@@ -1,0 +1,52 @@
+
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    line-height: 180%;
+    margin: 2%;
+    background-color: #fff;
+    color: #4ad300;
+    text-align: justify;
+  }
+  
+ 
+  h1 {
+    color: #002e41; 
+    font-family: "Rock 3D", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 450%;
+  }
+
+  p{
+    line-height: 150%;
+    text-transform: capitalize;
+  }
+
+  h2{
+    text-decoration: underline;
+    text-transform: uppercase;
+  }
+
+
+body {background-color: rgb(255, 244, 228);
+    background-image: url(paul.png), url(novak.png);
+    background-repeat: no-repeat;
+    background-size: 20%,40%;
+    background-position-x: right, center;
+         
+}
+
+a:link { color:blueviolet;}
+a:visited{ color:aqua;}
+a:hover { color:#d30000;}
+a:active { color:coral;}
+
+
+
+footer{
+    padding-top: 2%;
+    text-align: center;
+    height: 100px;
+    color: rgb(236, 0, 0);
+    background-image: url(nighthawks.jpeg);
+}
