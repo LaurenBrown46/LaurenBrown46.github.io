@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Lauren Brown</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <link href="stylesheetproj2.css" rel="stylesheet" type="text/css" />
+
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Rock+3D&family=Rubik+Dirt&family=Rubik+Doodle+Shadow&family=Syne+Mono&display=swap" rel="stylesheet">
+
+<body class="container">
+  <div class="animated-box"></div>
+  
+  <header class="row">
+    <div class="twelve columns">
+     
+      <h1 id="headerName">WHAT'S ON LAUREN'S DESK? </h1>
+      <h3>A Meticulous Archive of My Desk</h3>
+    </div>
+  </header>
+
+  <body>
+
+    <div class="three">
+
+    <div style="width:480px; height:512px; margin:0px; display:inline-block; background:#C0392B;"></div>
+
+    <div class="three">
+
+  
+  <div style="width:480px; height:512px; margin:0px; display:inline-block; background:#507DBC;"></div>
+
+  <div class="three">
+
+  
+  <div style="width:480px; height:512px; margin:0px; display:inline-block; background:#A7A98E;"></div>
+  </div>
+
+  </body>
+

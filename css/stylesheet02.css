@@ -1,0 +1,76 @@
+
+  body {
+    background-image: url(gramp.jpg);
+    position: center;
+    background-repeat: no-repeat;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    display: inline;
+    padding: 1em;
+    white-space: nowrap;
+}
+
+header, footer {
+    
+    text-align: center;
+}
+
+.row {
+    padding-bottom: 2rem;
+}
+
+h1#headerName {
+    text-transform: uppercase;
+    font-weight: 800;
+}
+
+@media only screen and (max-width: 600px){
+    
+    header {
+        text-align: center;
+    }
+}
+
+@keyframes slideInFade {
+  from {
+    transform: translateY(-50px);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+h1#headerName {
+  animation-name: slideInFade;
+  animation-duration: 2s;
+  animation-timing-function: ease-out;
+  animation-fill-mode: both;
+}
+
+img {
+    transition: transform 0.4s ease, filter 0.4s ease;
+  }
+  
+  img:hover {
+    transform: scale(1.05);
+    filter: brightness(110%);
+  }
+
+  .animated-box {
+    width: 150px;
+    height: 150px;
+    background-color: rgba(71, 178, 255, 0.554);
+    animation: bounce 2s infinite alternate;
+  }
+  
+  @keyframes bounce {
+    from { transform: translateY(0); }
+    to { transform: translateY(-30px); }
+  }
