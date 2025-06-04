@@ -4,28 +4,20 @@
   <meta charset="UTF-8" />
   <title>Lauren Brown</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-
-  <link href="stylesheetproj2.css" rel="stylesheet" type="text/css" />
-  <link href="css/normalize.css" rel="stylesheet" type="text/css" />
-  <link href="css/skeleton.css" rel="stylesheet" type="text/css" />
-
-
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Rubik+Dirt&family=Rubik+Doodle+Shadow&family=Source+Code+Pro:ital,wght@0,200..900;1,200..900&family=Syne+Mono&display=swap" rel="stylesheet">
-
-
-<body class="container">
-
-    
-  <div class="animated-box"></div>
   
-  <header class="row">
-    <div class="twelve columns">
-     
-        <h1 id="headerName">WHAT'S ON<br>LAUREN'S DESK?</h1>
-      <h3>A Meticulous Archive of My Desk</h3>
-    </div>
+  <link href="css/normalize.css" rel="stylesheet" />
+  <link href="css/skeleton.css" rel="stylesheet" />
+  <link href="stylesheetproj2.css" rel="stylesheet" />
+  
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Rubik+Dirt&family=Rubik+Doodle+Shadow&family=Source+Code+Pro:ital,wght@0,200..900;1,200..900&display=swap" rel="stylesheet" />
+</head>
+
+<body>
+  <header class="header-wrapper">
+    <h1>What's On Lauren's Desk?</h1>
+    <h3>A Meticulous Archive of My Desk</h3>
   </header>
 
   <body>
