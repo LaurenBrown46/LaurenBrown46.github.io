@@ -1,39 +1,147 @@
-
-  body {
-    background-image: url(gramp.jpg);
-    position: center;
-    background-repeat: no-repeat;
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
-ul {
-    list-style-type: none;
+html, body {
+  height: 100%;
+  font-family: "Syne Mono", monospace;
+  color: rgb(128, 2, 2);
+  background-color: #ffffff;
+  line-height: 1.6;
+  overflow-x: hidden;
 }
 
-li {
-    display: inline;
-    padding: 1em;
-    white-space: nowrap;
+
+.hero {
+  background-image: url('gramp.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  color: white;
+  padding: 2rem;
 }
 
-header, footer {
-    
-    text-align: center;
+header {
+  background-color: rgb(174, 32, 32); 
+  padding: 1rem;
+  border-radius: 10px;
+  width: 100%;
+  max-width: 900px;
 }
 
-.row {
-    padding-bottom: 2rem;
+
+nav ul {
+  list-style-type: none;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin-bottom: 1rem;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+  transition: color 0.3s ease;
+}
+
+nav ul li a:hover {
+  color: #000548;
 }
 
 h1#headerName {
-    text-transform: uppercase;
-    font-weight: 800;
+  font-family: "Rubik Dirt", system-ui;
+  font-size: clamp(3rem, 8vw, 8em);
+  text-transform: uppercase;
+  font-weight: 800;
+  margin-bottom: 0.5rem;
+  animation: slideInFade 2s ease-out forwards;
 }
 
-@media only screen and (max-width: 600px){
-    
-    header {
-        text-align: center;
-    }
+.color-change {
+  animation: colorCycle 4s forwards;
+  font-weight: 800;
+}
+
+@keyframes colorCycle {
+  100% { color: rgb(255, 255, 255); } 
+}
+
+
+h2, h3, h4 {
+  font-family: "Syne Mono", monospace;
+  text-align: center;
+}
+
+h2 {
+  font-size: 2.5rem;
+  margin: 2rem 0 1rem;
+}
+
+h3 {
+  font-size: 1.5rem;
+  margin-bottom: 0.5rem;
+}
+
+h4 {
+  font-size: 1.2rem;
+  margin-bottom: 0.5rem;
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0 auto 2rem;
+  max-width: 1100px;
+  gap: 2rem;
+  padding: 0 1rem;
+}
+
+.row > div {
+  flex: 1;
+  min-width: 280px;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+  transition: transform 0.4s ease, filter 0.4s ease;
+}
+
+img:hover {
+  transform: scale(1.05);
+  filter: brightness(110%);
+}
+
+p {
+  text-align: justify;
+  padding: 0 0.5rem;
+}
+
+
+footer {
+  text-align: center;
+  padding: 2rem 1rem;
+  background-color: #111;
+  color: white;
+}
+
+footer a {
+  color: #00054f;
+  text-decoration: none;
+}
+
+footer a:hover {
+  text-decoration: underline;
 }
 
 @keyframes slideInFade {
@@ -46,31 +154,3 @@ h1#headerName {
     opacity: 1;
   }
 }
-
-h1#headerName {
-  animation-name: slideInFade;
-  animation-duration: 2s;
-  animation-timing-function: ease-out;
-  animation-fill-mode: both;
-}
-
-img {
-    transition: transform 0.4s ease, filter 0.4s ease;
-  }
-  
-  img:hover {
-    transform: scale(1.05);
-    filter: brightness(110%);
-  }
-
-  .animated-box {
-    width: 150px;
-    height: 150px;
-    background-color: rgba(71, 178, 255, 0.554);
-    animation: bounce 2s infinite alternate;
-  }
-  
-  @keyframes bounce {
-    from { transform: translateY(0); }
-    to { transform: translateY(-30px); }
-  }
