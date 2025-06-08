@@ -17,7 +17,7 @@
 <body>
   <header class="header-wrapper">
     <h1>What's On Lauren's Desk?</h1>
-    <h3>A Meticulous Archive of My Desk</h3>
+    <h3>An Exhaustive Catalogue of the Desk and Its Content</h3>
   </header>
 
   <body>
@@ -31,6 +31,7 @@
     <div class="column"></div>
   </div>
 
+
   </body>
 
 
@@ -40,10 +41,13 @@
   
   <div class="wrapper">
     <div class="container">
-      <!-- Book box example -->
+
       <div class="box">
-        
+       
         <div class="info-icon">i</div>
+        <div class="box-overlay">
+    <p>More details about this book, its history, themes, etc.</p>
+  </div>
         <img src="https://images.penguinrandomhouse.com/cover/9780140449242" alt="The Brothers Karamazov">
         <p class="author">Fyodor Dostoyevsky</p>
         <p class="title">THE BROTHERS OF KARAMAZOV</p>
@@ -533,6 +537,38 @@
         <p class="genre">Design / Art / Nonfiction</p>
       </div>
 
+      <div class="box">
+        <div class="info-icon">i</div>
+        <img src="https://m.media-amazon.com/images/I/819DUjLhI9L._UF1000,1000_QL80_.jpg" alt="dare">
+        <p class="author">Frank Miller</p>
+        <p class="title">DAREDEVIL:LOVE AND WAR</p>
+        <p class="genre">Graphic Novel</p>
+      </div>
+
+      <div class="box">
+        <div class="info-icon">i</div>
+        <img src="https://m.media-amazon.com/images/I/61l8egj1YUL.jpg" alt="shaw">
+        <p class="author">Jennifer Bass and Pat Kirkham</p>
+        <p class="title">SAUL BASS: A LIFE IN FILM & DESIGN</p>
+        <p class="genre">Design / Film / Biography</p>
+      </div>
+
+      <div class="box">
+        <div class="info-icon">i</div>
+        <img src="https://m.media-amazon.com/images/I/815s8JFp-uL._AC_UF1000,1000_QL80_.jpg" alt="robot">
+        <p class="author">Victionary</p>
+        <p class="title">POSUTĀ</p>
+        <p class="genre">Design </p>
+      </div>
+
+      <div class="box">
+        <div class="info-icon">i</div>
+        <img src="https://m.media-amazon.com/images/I/810NdpFuvDL.jpg" alt="dare">
+        <p class="author">Annie Atkins</p>
+        <p class="title">DESIGNING GRAPHIC PROPS FOR FILMMAKING</p>
+        <p class="genre">Design / Film</p>
+      </div>
+
 
       
 
@@ -548,7 +584,7 @@
 
       <div class="box">
         <div class="info-icon">i</div>
-        <img class="u-full-width" src="darkk.png" alt="Photo of grandfather" />
+        <img class="u-full-width" src="batman.png" alt="Photo of grandfather" />
         <p class="author">Movie Ticket</p>
         <p class="title">DARK KNIGHT</p>
         <p class="genre"></p>
@@ -556,7 +592,7 @@
 
       <div class="box">
         <div class="info-icon">i</div>
-        <img src="perfect.png">
+        <img src="perfectdays.png">
         <p class="author">Movie Ticket</p>
         <p class="title">PERFECT DAYS</p>
         <p class="genre"></p>
@@ -564,7 +600,7 @@
 
       <div class="box">
         <div class="info-icon">i</div>
-        <img src="nap.png" alt="Nietzsche">
+        <img src="napoleon02.png" alt="Nietzsche">
         <p class="author">Movie Ticket</p>
         <p class="title">NAPOLEON</p>
         <p class="genre"></p>
@@ -572,7 +608,7 @@
 
       <div class="box">
         <div class="info-icon">i</div>
-        <img src="anatomy.png">
+        <img src="anatomy02.png">
         <p class="author">Movie Ticket</p>
         <p class="title">ANATOMY OF A FALL</p>
         <p class="genre"></p>
@@ -580,8 +616,24 @@
 
       <div class="box">
         <div class="info-icon">i</div>
-        <img src="killer.png" alt="Nietzsche">
+        <img src="killersof.png" alt="Nietzsche">
         <p class="author">Movie Ticket</p>
+        <p class="title">KILLERS OF A FLOWER MOON</p>
+        <p class="genre"></p>
+      </div>
+
+      <div class="box">
+        <div class="info-icon">i</div>
+        <img src="maomug.png" alt="maomug">
+        <p class="author">Mug</p>
+        <p class="title">KILLERS OF A FLOWER MOON</p>
+        <p class="genre"></p>
+      </div>
+
+      <div class="box">
+        <div class="info-icon">i</div>
+        <img src="maomug.png" alt="maomug">
+        <p class="author">Mug</p>
         <p class="title">KILLERS OF A FLOWER MOON</p>
         <p class="genre"></p>
       </div>
