@@ -16,8 +16,8 @@
 
 <body>
   <header class="header-wrapper">
-    <h1>What's On Lauren's Desk?</h1>
-    <h3>An Exhaustive Catalogue of the Desk and Its Content</h3>
+    <h1>What's On Lauren's Shelf?</h1>
+    <h3>An Exhaustive Catalogue of the Shelf and Its Content</h3>
   </header>
 
   <body>
@@ -279,12 +279,10 @@
        
         <div class="info-icon">i</div>
         <div class="box-overlay">
-    <p>Oblomov lies in bed, pondering one vital, earth-shattering question: Should he get up? 
-        Thus we meet one o the greatest creations in all Russian literature-Oblomov, good 
-        natured and indolent, with the mind of a reasonable man and the ambition of a giant
-         sloth, wearily reclining while a procession of visitors plead with him to change
-          his ways. We are drawn to this strange figure in the same way as is the energetic 
-          Stolz or the beautiful and vivacious Olga.</p>
+    <p>The novelist, dramatist, and poet Carson McCullers was at the peak of her powers as a writer of short fiction.
+       In nineteen stories that explore her signature themes of wounded adolescence, loneliness in marriage, and the 
+       tragicomedy of life in the South, McCullers's novellas "The Member of the Wedding" and "The Ballad of the Sad Cafe" are also included.
+       "These novellas are] assuredly among the masterpieces of our language," Tennesee Williams said.</p>
   </div>
         <img src="https://m.media-amazon.com/images/I/91MHzbkiM1L._AC_UF1000,1000_QL80_.jpg" alt="mccullers">
         <p class="author">Carson McCullers</p>
@@ -296,12 +294,9 @@
        
         <div class="info-icon">i</div>
         <div class="box-overlay">
-    <p>Oblomov lies in bed, pondering one vital, earth-shattering question: Should he get up? 
-        Thus we meet one o the greatest creations in all Russian literature-Oblomov, good 
-        natured and indolent, with the mind of a reasonable man and the ambition of a giant
-         sloth, wearily reclining while a procession of visitors plead with him to change
-          his ways. We are drawn to this strange figure in the same way as is the energetic 
-          Stolz or the beautiful and vivacious Olga.</p>
+    <p>Chichikov, a mysterious stranger, arrives in a provincial town and visits a succession of landowners to make each a strange offer. 
+        He proposes to buy the names of dead serfs still registered on the census, saving their owners from paying taxes on them, and to use 
+        these 'souls' as collateral to re-invent himself as a gentleman.</p>
   </div>
         <img src="https://www.nyrb.com/cdn/shop/products/Dead-Souls.jpg?v=1528394401" alt="gogol">
         <p class="author">Nikolai Gogol</p>
@@ -313,12 +308,11 @@
        
         <div class="info-icon">i</div>
         <div class="box-overlay">
-    <p>Oblomov lies in bed, pondering one vital, earth-shattering question: Should he get up? 
-        Thus we meet one o the greatest creations in all Russian literature-Oblomov, good 
-        natured and indolent, with the mind of a reasonable man and the ambition of a giant
-         sloth, wearily reclining while a procession of visitors plead with him to change
-          his ways. We are drawn to this strange figure in the same way as is the energetic 
-          Stolz or the beautiful and vivacious Olga.</p>
+    <p>Unjustly deported to Devil's Island following Louis-Napoleon's coup-d'état in December 1851, Florent Quenu escapes and returns to Paris. 
+        He finds the city changed beyond recognition. The old Marché des Innocents has been knocked down as part of Haussmann's grand program of 
+        urban reconstruction, replaced by Les Halles, the spectacular new food markets. Disgusted by a bourgeois society whose devotion to food is 
+        inseparable from its devotion to the Government, Florent attempts an insurrection. Les Halles, apocalyptic and destructive, play an active 
+        role in Zola's picture of a world in which food and the injustice of society are inextricably linked.</p>
   </div>
         <img src="https://m.media-amazon.com/images/I/81KBzRiJepL._AC_UF1000,1000_QL80_.jpg" alt="zola1">
         <p class="author">Émile Zola</p>
@@ -330,12 +324,11 @@
        
         <div class="info-icon">i</div>
         <div class="box-overlay">
-    <p>Oblomov lies in bed, pondering one vital, earth-shattering question: Should he get up? 
-        Thus we meet one o the greatest creations in all Russian literature-Oblomov, good 
-        natured and indolent, with the mind of a reasonable man and the ambition of a giant
-         sloth, wearily reclining while a procession of visitors plead with him to change
-          his ways. We are drawn to this strange figure in the same way as is the energetic 
-          Stolz or the beautiful and vivacious Olga.</p>
+    <p>Presented in the form of a dialogue between Socrates and three different interlocutors, it is an inquiry into the notion of a perfect 
+        community and the ideal individual within it. During the conversation other questions are raised: what is goodness; what is reality; 
+        what is knowledge? The Republic also addresses the purpose of education and the role of both women and men as "guardians" of the people.
+         With remarkable lucidity and deft use of allegory, Plato arrives at a depiction of a state bound by harmony and ruled by "philosopher kings."
+    </p>
   </div>
         <img src="https://m.media-amazon.com/images/I/91nYfNvYa7L._AC_UF1000,1000_QL80_.jpg" alt="plato">
         <p class="author">Plato</p>
@@ -347,12 +340,9 @@
        
         <div class="info-icon">i</div>
         <div class="box-overlay">
-    <p>Oblomov lies in bed, pondering one vital, earth-shattering question: Should he get up? 
-        Thus we meet one o the greatest creations in all Russian literature-Oblomov, good 
-        natured and indolent, with the mind of a reasonable man and the ambition of a giant
-         sloth, wearily reclining while a procession of visitors plead with him to change
-          his ways. We are drawn to this strange figure in the same way as is the energetic 
-          Stolz or the beautiful and vivacious Olga.</p>
+    <p>In Breakfast of Champions, one of Kurt Vonnegut’s most beloved characters, the aging writer Kilgore Trout, finds to his horror that a
+         Midwest car dealer is taking his fiction as truth. What follows is murderously funny satire, as Vonnegut looks at war, sex, racism, 
+         success, politics, and pollution in America and reminds us how to see the truth.</p>
   </div>
         <img src="https://upload.wikimedia.org/wikipedia/en/4/46/BreakfastOfChampions%28Vonnegut%29.jpg" alt="vonnegut">
         <p class="author">Kurt Vonnegut</p>
@@ -360,16 +350,98 @@
         <p class="genre">Fiction / Science Fiction / Humor</p>
       </div>
 
+
+
       <div class="box">
        
         <div class="info-icon">i</div>
         <div class="box-overlay">
-    <p>Oblomov lies in bed, pondering one vital, earth-shattering question: Should he get up? 
-        Thus we meet one o the greatest creations in all Russian literature-Oblomov, good 
-        natured and indolent, with the mind of a reasonable man and the ambition of a giant
-         sloth, wearily reclining while a procession of visitors plead with him to change
-          his ways. We are drawn to this strange figure in the same way as is the energetic 
-          Stolz or the beautiful and vivacious Olga.</p>
+    <p>Adam Trask came to California from the East to farm and raise his family on the new rich land. But the
+         birth of his twins, Cal and Aaron, brings his wife to the brink of madness, and Adam is left alone to 
+         raise his boys to manhood. One boy thrives nurtured by the love of all those around him; the other grows 
+         up in loneliness enveloped by a mysterious darkness.</p>
+  </div>
+        <img src="https://g.christianbook.com/dg/product/cbd/f450/86395.jpg" alt="gogol">
+        <p class="author">John Steinbeck</p>
+        <p class="title">EAST OF EDEN</p>
+        <p class="genre">Fiction / Classic </p>
+      </div>
+
+      <div class="box">
+       
+        <div class="info-icon">i</div>
+        <div class="box-overlay">
+    <p>For Albert Camus, the urge to revolt is one of the "essential dimensions" of human nature, 
+        manifested in man's timeless Promethean struggle against the conditions of his existence, 
+        as well as the popular uprisings against established orders throughout history. And yet, 
+        with an eye toward the French Revolution and its regicides and deicides, he shows how 
+        inevitably the course of revolution leads to tyranny. 
+    </p>
+  </div>
+        <img src="https://d3525k1ryd2155.cloudfront.net/h/530/771/1378771530.0.x.jpg" alt="gogol">
+        <p class="author">Albert Camus</p>
+        <p class="title">THE REBEL</p>
+        <p class="genre">Philosophy / Existentialism / Essays </p>
+      </div>
+
+      <div class="box">
+       
+        <div class="info-icon">i</div>
+        <div class="box-overlay">
+    <p>The book has been described as a psychological thriller and horror fiction, and it is 
+        about a young woman who has many doubts about her relationship with her boyfriend. 
+        In spite of her reservations, she takes a road trip with him to meet his parents.</p>
+  </div>
+        <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1625603942i/40605223.jpg" alt="gogol">
+        <p class="author">Iain Reid</p>
+        <p class="title">I'M THINKING OF ENDING THINGS</p>
+        <p class="genre">Fiction / Horror / Thriller / Mystery </p>
+      </div>
+
+
+      <div class="box">
+       
+        <div class="info-icon">i</div>
+        <div class="box-overlay">
+    <p>A gargantuan, mind-altering comedy about the Pursuit of Happiness in America. Set in an addicts' halfway 
+        house and a tennis academy, and featuring the most endearingly screwed-up family to come along in recent 
+        fiction, Infinite Jest explores essential questions about what entertainment is and why it has come to so
+         dominate our lives; about how our desire for entertainment affects our need to connect with other people;
+         and about what the pleasures we choose say about who we are.</p>
+  </div>
+        <img src="https://m.media-amazon.com/images/I/71J4YMYancL._AC_UF1000,1000_QL80_.jpg" alt="gogol">
+        <p class="author">David Foster Wallace</p>
+        <p class="title">INFINITE JEST</p>
+        <p class="genre">Fiction / Post-Modern </p>
+      </div>
+
+      <div class="box">
+       
+        <div class="info-icon">i</div>
+        <div class="box-overlay">
+    <p>Rob is a pop music junkie who runs his own semi-failing record store. His girlfriend, Laura, 
+        has just left him for the guy upstairs, and Rob is both miserable and relieved. After all, 
+        could he have spent his life with someone who has a bad record collection? Rob seeks refuge 
+        in the company of the offbeat clerks at his store, who endlessly review their top five films;
+         top five Elvis Costello songs; top five episodes of Cheers.</p>
+  </div>
+        <img src="https://m.media-amazon.com/images/I/81T6CokLcaL.jpg" alt="gogol">
+        <p class="author">Nick Hornby</p>
+        <p class="title">HIGH FIDELITY</p>
+        <p class="genre">Fiction / Music / Humor</p>
+      </div>
+
+      <div class="box">
+       
+        <div class="info-icon">i</div>
+        <div class="box-overlay">
+    <p>Ryünosuke Akutagawa is one of Japan's foremost stylists—a modernist master whose short stories are marked by highly original imagery, 
+        cynicism, beauty and wild humour. "Rashömon"and "In a Bamboo Grove" inspired Kurosawa's magnificent film and depict a past in which 
+        morality is turned upside down, while tales such as "The Nose," "O-Gin" and "Loyalty" paint a rich and imaginative picture of a 
+        medieval Japan peopled by Shoguns and priests, vagrants and peasants. And in later works such as "Death Register," "The Life of a 
+        Stupid Man," and "Spinning Gears," Akutagawa drew from his own life to devastating effect, revealing his intense melancholy and 
+        terror of madness in exquisitely moving impressionistic stories.
+    </p>
   </div>
         <img src="https://m.media-amazon.com/images/I/718XTRjOD-L._AC_UF1000,1000_QL80_.jpg" alt="akutagawa">
         <p class="author">Ryūnosuke Akutagawa</p>
@@ -381,12 +453,11 @@
        
         <div class="info-icon">i</div>
         <div class="box-overlay">
-    <p>Oblomov lies in bed, pondering one vital, earth-shattering question: Should he get up? 
-        Thus we meet one o the greatest creations in all Russian literature-Oblomov, good 
-        natured and indolent, with the mind of a reasonable man and the ambition of a giant
-         sloth, wearily reclining while a procession of visitors plead with him to change
-          his ways. We are drawn to this strange figure in the same way as is the energetic 
-          Stolz or the beautiful and vivacious Olga.</p>
+    <p>Published shortly after his death, the Ethics is undoubtedly Spinoza's greatest work - an elegant, fully cohesive cosmology derived from
+         first principles, providing a coherent picture of reality, and a guide to the meaning of an ethical life. Following a logical 
+         step-by-step format, it defines in turn the nature of God, the mind, the emotions, human bondage to the emotions, and the power 
+         of understanding - moving from a consideration of the eternal, to speculate upon humanity's place in the natural order, the nature 
+         of freedom and the path to attainable happiness. </p>
   </div>
         <img src="https://m.media-amazon.com/images/I/51Fwx44hFYL._AC_UF1000,1000_QL80_.jpg" alt="spinoza">
         <p class="author">Benedict De Spinoza</p>
@@ -398,12 +469,8 @@
        
         <div class="info-icon">i</div>
         <div class="box-overlay">
-    <p>Oblomov lies in bed, pondering one vital, earth-shattering question: Should he get up? 
-        Thus we meet one o the greatest creations in all Russian literature-Oblomov, good 
-        natured and indolent, with the mind of a reasonable man and the ambition of a giant
-         sloth, wearily reclining while a procession of visitors plead with him to change
-          his ways. We are drawn to this strange figure in the same way as is the energetic 
-          Stolz or the beautiful and vivacious Olga.</p>
+    <p>A witty, sometimes curmudgeonly, often helpful look at various fads, crazes, morals, fashions, and mores in America today ranges from 
+        comments on good weather to a pontifical guide for the truly ambitious.</p>
   </div>
         <img src="https://m.media-amazon.com/images/I/91lB+mxVhHL._AC_UF1000,1000_QL80_.jpg" alt="lebowitz1">
         <p class="author">Fran Lebowitz</p>
@@ -415,12 +482,9 @@
        
         <div class="info-icon">i</div>
         <div class="box-overlay">
-    <p>Oblomov lies in bed, pondering one vital, earth-shattering question: Should he get up? 
-        Thus we meet one o the greatest creations in all Russian literature-Oblomov, good 
-        natured and indolent, with the mind of a reasonable man and the ambition of a giant
-         sloth, wearily reclining while a procession of visitors plead with him to change
-          his ways. We are drawn to this strange figure in the same way as is the energetic 
-          Stolz or the beautiful and vivacious Olga.</p>
+    <p>As explosive and immediate today as when it was first published in 1933, 'Man's Fate' ('La Condition Humaine'), an account of a 
+        crucial episode in the early days of the Chinese Revolution, foreshadows the contemporary world and brings to life the 
+        profound meaning of the revolutionary impulse for the individuals involved.</p>
   </div>
         <img src="https://img.btimages.net/1xg/3765.jpg" alt="malraux">
         <p class="author">André Malraux</p>
@@ -432,12 +496,7 @@
        
         <div class="info-icon">i</div>
         <div class="box-overlay">
-    <p>Oblomov lies in bed, pondering one vital, earth-shattering question: Should he get up? 
-        Thus we meet one o the greatest creations in all Russian literature-Oblomov, good 
-        natured and indolent, with the mind of a reasonable man and the ambition of a giant
-         sloth, wearily reclining while a procession of visitors plead with him to change
-          his ways. We are drawn to this strange figure in the same way as is the energetic 
-          Stolz or the beautiful and vivacious Olga.</p>
+    <p>A biography of the man who transformed China from an ancient, traditional culture into a revolutionary nation.</p>
   </div>
         <img src="https://archive.org/services/img/mao00cart/full/pct:200/0/default.jpg" alt="mao">
         <p class="author">Peter Carter</p>
@@ -452,12 +511,10 @@
        
         <div class="info-icon">i</div>
         <div class="box-overlay">
-    <p>Oblomov lies in bed, pondering one vital, earth-shattering question: Should he get up? 
-        Thus we meet one o the greatest creations in all Russian literature-Oblomov, good 
-        natured and indolent, with the mind of a reasonable man and the ambition of a giant
-         sloth, wearily reclining while a procession of visitors plead with him to change
-          his ways. We are drawn to this strange figure in the same way as is the energetic 
-          Stolz or the beautiful and vivacious Olga.</p>
+    <p>Organized around key American films from the 1970s, all of which he first saw as a young moviegoer at the time, 
+        this book is as intellectually rigorous and insightful as it is rollicking and entertaining. At once film criticism, 
+        film theory, a feat of reporting, and wonderful personal history, it is all written in the singular voice recognizable 
+        immediately as QT’s and with the rare perspective about cinema possible only from one of the greatest practitioners of the artform ever.</p>
   </div>
         <img src="https://m.media-amazon.com/images/I/81TrZAPVcCL.jpg" alt="tarantino">
         <p class="author">Quentin Tarantino</p>
@@ -466,7 +523,13 @@
       </div>
 
       <div class="box">
+       
         <div class="info-icon">i</div>
+        <div class="box-overlay">
+    <p>Originally published in 1925, this book became known for the frank sexuality of its contents and its account 
+        of middle class French morality. The themes of the book explore the problem of morals, the problem of society 
+        and the problems facing writers.</p>
+  </div>
         <img src="https://m.media-amazon.com/images/I/71peeet5DBL._AC_UF1000,1000_QL80_.jpg" alt="gide2">
         <p class="author">André Gide</p>
         <p class="title">THE COUNTERFEITERS</p>
@@ -474,7 +537,18 @@
       </div>
 
       <div class="box">
+       
         <div class="info-icon">i</div>
+        <div class="box-overlay">
+    <p>In 1572 Montaigne retired to his estates in order to devote himself to leisure, reading and reflection. 
+        There he wrote his constantly expanding 'assays', inspired by the ideas he found in books contained in
+         his library and from his own experience. He discusses subjects as diverse as war-horses and cannibals,
+          poetry and politics, sex and religion, love and friendship, ecstasy and experience. But, above all,
+           Montaigne studied himself as a way of drawing out his own inner nature and that of men and women in 
+           general. The Essays are among the most idiosyncratic and personal works in all literature and provide 
+           an engaging insight into a wise Renaissance mind, continuing to give pleasure and enlightenment to 
+           modern readers.</p>
+  </div>
         <img src="https://m.media-amazon.com/images/I/71OCg4rm9PL.jpg" alt="montaigne">
         <p class="author">Michel De Montaigne</p>
         <p class="title">THE COMPLETE ESSAYS</p>
@@ -482,7 +556,17 @@
       </div>
 
       <div class="box">
+       
         <div class="info-icon">i</div>
+        <div class="box-overlay">
+    <p>Following the discovery of her archive in a thrift auction house in 2007, Vivian Maier's posthumous
+        trajectory from relative obscurity to one of the great American photographers of the twentieth century
+         is the story of a singular talent. From the mid-1950s throughout her adult life, she worked as a nanny 
+         in New York City and Chicago. During this time, she created a huge body of photographs and films recording 
+         everyday street life, often including self-portraits and moments of fleeting reflection within the cityscape,
+          and earning her comparisons to Helen Levitt, Robert Frank, and Diane Arbus. This new addition to the Photofile 
+          series is a succinct and essential overview of Maier's work, and a fascinating window into American life.</p>
+  </div>
         <img src="https://m.media-amazon.com/images/I/71T+vq35peL._AC_UF1000,1000_QL80_.jpg" alt="maier">
         <p class="author">Photofile</p>
         <p class="title">VIVIAN MAIER</p>
@@ -490,7 +574,15 @@
       </div>
 
       <div class="box">
+       
         <div class="info-icon">i</div>
+        <div class="box-overlay">
+    <p>Bruno Munari was among the most inspirational designers of all time, described by Picasso as “the new Leonardo.” 
+        Munari insisted that design be beautiful, functional and accessible, and this enlightening and highly entertaining 
+        book sets out his ideas about visual, graphic and industrial design and the role it plays in the objects we use everyday. 
+        Lamps, road signs, typography, posters, children's books, advertising, cars and chairs—these are just some of the subjects 
+        to which he turns his illuminating gaze.</p>
+  </div>
         <img src="https://m.media-amazon.com/images/I/61gec0KifkL.jpg" alt="munari">
         <p class="author">Bruno Munari</p>
         <p class="title">DESIGN AS ART.</p>
@@ -498,7 +590,11 @@
       </div>
 
       <div class="box">
+       
         <div class="info-icon">i</div>
+        <div class="box-overlay">
+    <p>A reminiscence of the late rock star sketches the events of his life, the rise of the Beatles, and the circumstances surrounding his tragic death</p>
+  </div>
         <img src="https://pictures.abebooks.com/inventory/142359282.jpg" alt="lennon">
         <p class="author">Barbara Grau, Brian Cullman, and Vic Garbarini</p>
         <p class="title">JOHN LENNON REMEMBERED</p>
@@ -506,7 +602,15 @@
       </div>
 
       <div class="box">
+       
         <div class="info-icon">i</div>
+        <div class="box-overlay">
+    <p>Written when Engels was only twenty-four, and inspired in particular by his time living amongst the poor in 
+        Manchester, this forceful polemic explores the staggering human cost of the Industrial Revolution in 
+        Victorian England. Engels paints an unforgettable picture of daily life in the new industrial towns, and 
+        for miners and agricultural workers--depicting overcrowded housing, abject poverty, child labour, sexual 
+        exploitation, dirt and drunkenness--in a savage indictment of the greed of the bourgeoisie.</p>
+  </div>
         <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348259744i/824042.jpg" alt="england">
         <p class="author">Friedrich Engles</p>
         <p class="title">THE CONDITIONS OF THE WORKING CLASS IN ENGLAND</p>
@@ -514,7 +618,15 @@
       </div>
 
       <div class="box">
+       
         <div class="info-icon">i</div>
+        <div class="box-overlay">
+    <p>This book offers a compact yet representative selection of Ezra Pound's poems and translations. The span covered is 
+        Pound's entire writing career, from his early lyrics and the translations of Provençal songs to his English version 
+        of Sophocles' Trachiniae. Included are parts of his best known works―the Chinese translations, the sequence called 
+        Hugh Selwyn Mauberly, the Homage to Sextus Propertius. The Cantos, Pound's major epic, are presented in generous 
+        selections, chosen to emphasize the main themes of the whole poem.</p>
+  </div>
         <img src="https://m.media-amazon.com/images/I/51uWx9BNxoL._AC_UF1000,1000_QL80_.jpg" alt="pound">
         <p class="author">Ezra Pound</p>
         <p class="title">SELECTED POEMS</p>
@@ -522,7 +634,16 @@
       </div>
 
       <div class="box">
+       
         <div class="info-icon">i</div>
+        <div class="box-overlay">
+    <p>From his first visit to Russia in 1898 until his death in 1949 as the Cold War began to flower, the life of Sir
+         Bernard Pares and Russia were intimately linked. Although banned from the country until 1935 by the communist
+          government because of his involvement with the White Army, he wrote extensively on Russian history and literature 
+          and on his personal experiences. A 1968 retrospective article about him describes him as more of a publicist and 
+          promoter of comprehensive Russian studies than a true research scholar. As in the apple not falling far from the tree, 
+          his son Richard was also an eminent historian, pursuing an interest in the West Indies.</p>
+  </div>
         <img src="https://m.media-amazon.com/images/I/61l6+ZpHUeL._AC_UF1000,1000_QL80_.jpg" alt="sir">
         <p class="author">Sir Bernard</p>
         <p class="title">RUSSIA: BETWEEN REFORM AND REVOLUTION</p>
@@ -530,7 +651,15 @@
       </div>
 
       <div class="box">
+       
         <div class="info-icon">i</div>
+        <div class="box-overlay">
+    <p>Conservative and working-class, Jean Macquart is an experienced, middle-aged soldier in the French army, who has 
+        endured deep personal loss. When he first meets the wealthy and mercurial Maurice Levasseur, who never seems to 
+        have suffered, his hatred is immediate. But after they are thrown together during the disastrous Franco-Prussian 
+        war of 1870-71, the pair are compelled to understand one other. Forging a profound friendship, they must struggle
+         together to endure a disorganised and brutal war, the savage destruction of France's Second Empire and the fall of Napoleon III.</p>
+  </div>
         <img src="https://i.ebayimg.com/images/g/8UwAAOSwXRxjYTzr/s-l1200.jpg" alt="debacle">
         <p class="author">Émile Zola</p>
         <p class="title">THE DEBACLE</p>
@@ -538,7 +667,15 @@
       </div>
 
       <div class="box">
+       
         <div class="info-icon">i</div>
+        <div class="box-overlay">
+    <p>First published in 1973, this is a study of the force of photographic images which are continually inserted between 
+        experience and reality. Sontag develops further the concept of 'transparency'. When anything can be photographed and
+         photography has destroyed the boundaries and definitions of art, a viewer can approach a photograph freely with no 
+         expectations of discovering what it means. This collection of six lucid and invigorating essays, the most famous being 
+         "In Plato's Cave", make up a deep exploration of how the image has affected society.</p>
+  </div>
         <img src="https://upload.wikimedia.org/wikipedia/en/a/a5/On_Photography.jpg" alt="susan">
         <p class="author">Susan Sontag</p>
         <p class="title">ON PHOTOGRAPHY</p>
@@ -546,7 +683,16 @@
       </div>
 
       <div class="box">
+       
         <div class="info-icon">i</div>
+        <div class="box-overlay">
+    <p>The first, shortest, and most approachable of James Joyce’s novels, A Portrait of the Artist as a Young Man portrays the Dublin 
+        upbringing of Stephen Dedalus, from his youthful days at Clongowes Wood College to his radical questioning of all convention. 
+        In doing so, it provides an oblique self-portrait of the young Joyce himself. At its center lie questions of origin and source, 
+        authority and authorship, and the relationship of an artist to his family, culture, and race. Exuberantly inventive in style, 
+        the novel subtly and beautifully orchestrates the patterns of quotation and repetition instrumental in its hero’s quest to create 
+        his own character, his own language, life, and art: “to forge in the smithy of my soul the uncreated conscience of my race.”</p>
+  </div>
         <img src="https://world.pulse.rs/wp-content/uploads/2016/12/629full-a-portrait-of-the-artist-as-a-young-man-cover-483x813.jpg" alt="james">
         <p class="author">James Joyce</p>
         <p class="title">A PORTRAIT OF THE ARTIST AS A YOUNG MAN</p>
@@ -554,7 +700,15 @@
       </div>
 
       <div class="box">
+       
         <div class="info-icon">i</div>
+        <div class="box-overlay">
+    <p>Tom Wolfe's genre-defining magical mystery tour through the 1960s published in Vintage Classics for the first time to mark its 
+        fiftieth anniversary.WITH AN INTRODUCTION BY JARVIS COCKERIn the summer of 1964, author Ken Kesey and his Merry Band of 
+        Pranksters set out on an awesome social experiment like no other. Blazing across America in their day-glo schoolbus, doped up 
+        and deep ‘in the pudding’, the Pranksters’ arrival on the scene – anarchic, exuberant and LSD-infused – would turn on an entire 
+        counter-culture, and provide Tom Wolfe with the perfect free-wheeling subject for this, his pioneering masterpiece of New Journalism.'</p>
+  </div>
         <img src="https://vintagebookseller.myshopify.com/cdn/shop/products/Book0087_8fe10fa7-f20a-4078-b84c-a8bc6a64f198.jpg?v=1422037013" alt="kool-aid">
         <p class="author">Tom Wolfe</p>
         <p class="title">THE ELECTRIC KOOL-AID ACID TEST</p>
@@ -562,7 +716,15 @@
       </div>
 
       <div class="box">
+       
         <div class="info-icon">i</div>
+        <div class="box-overlay">
+    <p>How four of Europe's most mysterious and fascinating writers shaped the modern mind.Dostoevsky, Kierkegaard, Nietzsche, and Kafka 
+        were all outsiders in their societies, unable to fit into the accepted nineteenth-century categories of theology, philosophy, or 
+        belles lettres. Instead, they saw themselves both as the end products of a dying civilization and as prophets of the coming chaos
+         of the twentieth century. In this brilliant combination of biography and lucid exposition, their apocalyptic visions of the future 
+         are woven together into a provocative portrait of modernity.</p>
+  </div>
         <img src="https://m.media-amazon.com/images/I/5108S2Z4K8L._AC_UF1000,1000_QL80_.jpg" alt="william">
         <p class="author">William Hubben</p>
         <p class="title">DOSTOYEVSKY, KIERKEGAARD, NIETZSCHE, AND KAFKA</p>
@@ -570,7 +732,15 @@
       </div>
 
       <div class="box">
+       
         <div class="info-icon">i</div>
+        <div class="box-overlay">
+    <p>Taken from the poverty of her parents' home in Portsmouth, Fanny Price is brought up with her rich cousins at Mansfield Park, 
+        acutely aware of her humble rank and with her cousin Edmund as her sole ally. During her uncle's absence in Antigua, the 
+        Crawford's arrive in the neighbourhood bringing with them the glamour of London life and a reckless taste for flirtation.
+        Mansfield Park is considered Jane Austen's first mature work and, with its quiet heroine and subtle examination of social 
+        position and moral integrity, one of her most profound.</p>
+  </div>
         <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1397063295i/45032.jpg" alt="Jane">
         <p class="author">Jane Austen</p>
         <p class="title">MANSFIELD PARK</p>
@@ -578,7 +748,17 @@
       </div>
 
       <div class="box">
+       
         <div class="info-icon">i</div>
+        <div class="box-overlay">
+    <p>François Truffaut (1932-1984), perhaps the most respected member of the New Wave group of French moviemakers, left a legacy of 
+        beloved and influential films that include The 400 Blows, Jules and Jim, Stolen Kisses, Day for Night and The Story of Adele H. 
+        Equally fascinating is the very large body of film criticism Truffaut wrote over many years for Cahiers du Cinema and other 
+        leading film journals. Wonderfully varied, personal, and informal, these reviews all communicate unabashed love for and an 
+        enormous excitement about the movies. The Films in My Life is Truffaut's own selection of more than one hundred essays that 
+        range widely over the history of film and pay tribute to Truffaut's particular heroes, among them Hitchcock, Welles, Chaplin, 
+        Renoir, Cocteau, Bergman, and Buñuel.</p>
+  </div>
         <img src="https://m.media-amazon.com/images/I/81fTIexjtqL._AC_UF1000,1000_QL80_.jpg" alt="truffaut">
         <p class="author">François Truffaut</p>
         <p class="title">THE FILMS IN MY LIFE</p>
@@ -586,7 +766,14 @@
       </div>
 
       <div class="box">
+       
         <div class="info-icon">i</div>
+        <div class="box-overlay">
+    <p>In the vein of Lebowitz's acclaimed Netflix limited series, Pretend It's a City—The Fran Lebowitz Reader brings together
+         two of the famed author's bestsellers, Metropolitan Life and Social Studies. In "elegant, finely honed prose" (The Washington 
+         Post Book World), Lebowitz limns the vicissitudes of contemporary urban life—its fads, trends, crazes, morals, and fashions. 
+         By turns ironic, facetious, deadpan, sarcastic, wry, wisecracking, and waggish, Fran Lebowitz is always wickedly entertaining.</p>
+  </div>
         <img src="https://m.media-amazon.com/images/I/91efmJGd-DL.jpg" alt="fran">
         <p class="author">Fran Lebowitz</p>
         <p class="title">THE FRAN LEBOWITZ READER</p>
@@ -594,7 +781,16 @@
       </div>
 
       <div class="box">
+       
         <div class="info-icon">i</div>
+        <div class="box-overlay">
+    <p>Frank O'Connor's "The Mad Lomasneys and Other Stories" offers a vivid and insightful glimpse into Irish life, particularly 
+        in his native Cork. The collection showcases O'Connor's mastery of the short story form, presenting a range of characters 
+        and situations that are both distinctly Irish and universally resonant. Through a blend of sharp wit, gentle irony, and
+        deep psychological understanding, he explores the complexities of human relationships, family dynamics, and the subtle 
+        interplay between individual desires and societal expectations, often touching on themes of love, resentment, and the 
+        search for meaning in everyday struggles.</p>
+  </div>
         <img src="https://m.media-amazon.com/images/I/81UK1ZcTFzL._AC_UF1000,1000_QL80_.jpg" alt="irish">
         <p class="author">Frank O'Connor</p>
         <p class="title">THE MAD LOMASNEYS AND OTHER STORIES</p>
@@ -602,7 +798,18 @@
       </div>
 
       <div class="box">
+       
         <div class="info-icon">i</div>
+        <div class="box-overlay">
+    <p>This book contains two separate stories: "Raise High the Roof Beam, Carpenters" is the first, and "Seymour: An Introduction" is 
+        the second. "Raise High the Roof Beam, Carpenters" is a story about the Glass family, narrated by Buddy, the second oldest brother. 
+        Buddy is attending his brother Seymour's wedding to a gal named Muriel, but he's on Army leave during active duty in World War II.
+        At the wedding, everyone is stunned when Seymour does not show up. The action of the story picks up when several characters end
+         up carpooling together following the failed wedding. The others (the Matron of Honor and her husband, and a couple of stragglers) 
+         are talking about Seymour and the disappointment of his not showing up, and Buddy never tells them that he is secretly Seymour's 
+         brother, so they talk more openly with him than they otherwise would.
+        </p>
+  </div>
         <img src="https://burkesbooks.cdn.bibliopolis.com/pictures/225901.jpg?auto=webp&v=1709576086" alt="j.d.">
         <p class="author">J.D. Salinger</p>
         <p class="title">RAISE HIGH THE ROOF BEAMS, CARPENTERS AND SEYMOUR</p>
@@ -610,7 +817,16 @@
       </div>
 
       <div class="box">
+       
         <div class="info-icon">i</div>
+        <div class="box-overlay">
+    <p>Discover the beauty and evolution of Western art with "A Pictorial History of Western Art" by Erwin O. Christensen.
+         This first edition, first printing paperback publication from 1964 is a must-have for art enthusiasts and collectors 
+         alike. The illustrated book showcases the rich culture and diverse genres of Western art, covering topics such as art
+          history, painting, sculpture, and more. This special edition includes unique features such as detailed illustrations 
+          and a comprehensive guide to Western art. Whether you're a seasoned collector or a beginner, "A Pictorial History of 
+          Western Art" is an invaluable addition to any collection. </p>
+  </div>
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlG5YUJ23Pu5iRzsJlVrDRFvfTw5vwCDdusw&s" alt="art">
         <p class="author">Erwin O. Christensen</p>
         <p class="title">A PICTORIAL HISTORY OF WESTERN ART</p>
@@ -618,7 +834,16 @@
       </div>
 
       <div class="box">
+       
         <div class="info-icon">i</div>
+        <div class="box-overlay">
+    <p>Men Without Women" was a milestone in Hemingway's career. "Fiesta" had already established him as a novelist of exceptional 
+        power, but with these short stories, his second collection, he showed that it is possible, within the space of a few pages,
+         to recreate a scene with absolute truth, bringing to life details observed only by the eye of a uniquely gifted artist.
+          Hemingway's men are bullfighters and boxers, hired hands and hard drinkers, gangsters and gunmen. Each of their stories
+           deals with masculine toughness unsoftened by woman's hand. Incisive, hard-edged, pared down to the bare minimum, they 
+           are classic Hemingway territory.</p>
+  </div>
         <img src="https://pictures.abebooks.com/isbn/9780140010671-us.jpg" alt="hemingway">
         <p class="author">Ernest Hemmingway</p>
         <p class="title">MEN WITHOUT WOMEN</p>
@@ -626,7 +851,13 @@
       </div>
 
       <div class="box">
+       
         <div class="info-icon">i</div>
+        <div class="box-overlay">
+    <p>A progressive parliamentary deputy is scheduled to appear at a political rally. Meanwhile, local political bosses plot his 
+        assassination. Thugs are recruited to disrupt the rally. Rumors begin to spread. But the forces already set in motion are 
+        irresistible. Z is the story of a crime, a time, a place, and people transformed by events.</p>
+  </div>
         <img src="https://m.media-amazon.com/images/I/717-3S8X18L._AC_UF1000,1000_QL80_.jpg" alt="vvz">
         <p class="author">Vassilis Vassilikos</p>
         <p class="title">Z</p>
@@ -634,7 +865,15 @@
       </div>
 
       <div class="box">
+       
         <div class="info-icon">i</div>
+        <div class="box-overlay">
+    <p>From charity to deceit, benevolence to violence, fear of God to extreme cruelty, the dictator of The Autumn of the 
+        Patriarch embodies the best and the worst of human nature. Gabriel García Márquez, the renowned master of magical 
+        realism, vividly portrays the dying tyrant caught in the prison of his own dictator-ship. Employing an innovative,
+        dreamlike style, and overflowing with symbolic descriptions, the novel transports the reader to a world that is at 
+        once fanciful and real.</p>
+  </div>
         <img src="https://m.media-amazon.com/images/I/51CBV43YktL._AC_UF1000,1000_QL80_.jpg" alt="ggm">
         <p class="author">Gabriel García Márquez</p>
         <p class="title">THE AUTUMN OF THE PATRIARCH</p>
@@ -643,7 +882,13 @@
 
 
       <div class="box">
+       
         <div class="info-icon">i</div>
+        <div class="box-overlay">
+    <p>Remembrance of Things Past follows the narrator's recollections of childhood and experiences into adulthood in 
+        late 19th century and early 20th century high-society France. The story begins with the narrator as a young boy 
+        in Combray, sensitively attuned to the world around him.</p>
+  </div>
         <img src="https://m.media-amazon.com/images/I/81l5Y6iElaL._AC_UF1000,1000_QL80_.jpg" alt="proust">
         <p class="author">Marcel Proust</p>
         <p class="title">REMEMBRANCE OF THINGS PAST</p>
@@ -651,7 +896,17 @@
       </div>
 
       <div class="box">
+       
         <div class="info-icon">i</div>
+        <div class="box-overlay">
+    <p>Walter Rodney’s The Russian Revolution collects surviving texts from a series of lectures he delivered at the 
+        University of Dar es Salaam, an intellectual hub of the independent Third World. It had been his intention to 
+        work these into a book, a goal completed posthumously with the editorial aid of Robin D.G. Kelley and Jesse Benjamin.
+         Moving across the historiography of the long Russian Revolution with clarity and insight, Rodney transcends the 
+         ideological fault lines of the Cold War. Surveying a broad range of subjects—the Narodniks, social democracy, 
+         the October Revolution, civil war, and the challenges of Stalinism—Rodney articulates a distinct viewpoint 
+         from the Third World, one that grounds revolutionary theory and history with the people in motion.</p>
+  </div>
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQljdzNCUkELYBws2yBzZQNEanP5bAeLFnJYQ&s" alt="walter">
         <p class="author">Walter Rodney</p>
         <p class="title">THE RUSSIAN REVOLUTION</p>
@@ -659,7 +914,17 @@
       </div>
 
       <div class="box">
+       
         <div class="info-icon">i</div>
+        <div class="box-overlay">
+    <p>In Either/Or, using the voices of two characters—the aesthetic young man of part one, called simply "A," and 
+        the ethical Judge Vilhelm of the second section—Kierkegaard reflects upon the search for a meaningful existence, 
+        contemplating subjects as diverse as Mozart, drama, boredom, and, in the famous Seducer's Diary, the cynical 
+        seduction and ultimate rejection of a young, beautiful woman. A masterpiece of duality, Either/Or is a brilliant
+         exploration of the conflict between the aesthetic and the ethical - both meditating ironically and seductively
+          upon Epicurean pleasures, and eloquently expounding the noble virtues of a morally upstanding life.
+    </p>
+  </div>
         <img src="https://m.media-amazon.com/images/I/611k2mmX6yL._AC_UF1000,1000_QL80_.jpg" alt="either">
         <p class="author">Søren Kierkkegaard</p>
         <p class="title">EITHER/OR</p>
@@ -667,7 +932,15 @@
       </div>
 
       <div class="box">
+       
         <div class="info-icon">i</div>
+        <div class="box-overlay">
+    <p>James Baldwin was a uniquely prophetic voice in American letters. His brilliant and provocative essays made him the 
+        literary voice of the Civil Rights Era, and they continue to speak with powerful urgency to us today, whether in 
+        the swirling debate over the Black Lives Matter movement or in the words of Raoul Peck's documentary "I Am Not Your 
+        Negro." Edited by Nobel laureate Toni Morrison, the Library of America's Collected Essays is the most comprehensive 
+        gathering of Baldwin's nonfiction ever published.</p>
+  </div>
         <img src="https://images.penguinrandomhouse.com/cover/9781883011529" alt="baldwin">
         <p class="author">James Baldwin</p>
         <p class="title">THE COMPLETE ESSAYS</p>
@@ -675,7 +948,16 @@
       </div>
 
       <div class="box">
+       
         <div class="info-icon">i</div>
+        <div class="box-overlay">
+    <p>The thirteenth novel in Émile Zola’s great Rougon-Macquart sequence, Germinal expresses outrage at the exploitation of the
+         many by the few, but also shows humanity’s capacity for compassion and hope. Etienne Lantier, an unemployed railway worker, 
+         is a clever but uneducated young man with a dangerous temper. Forced to take a back-breaking job at Le Voreux mine when 
+         he cannot get other work, he discovers that his fellow miners are ill, hungry, and in debt, unable to feed and clothe 
+         their families. When conditions in the mining community deteriorate even further, Lantier finds himself leading a 
+         strike that could mean starvation or salvation for all.</p>
+  </div>
         <img src="https://m.media-amazon.com/images/I/91Q-MAVNqTL.jpg" alt="germinal">
         <p class="author">Émile Zola</p>
         <p class="title">GERMINAL</p>
@@ -683,7 +965,15 @@
       </div>
 
       <div class="box">
+       
         <div class="info-icon">i</div>
+        <div class="box-overlay">
+    <p>National Bestseller In this dazzling novel, the book that established his international reputation, 
+        Roberto Bolaño tells the story of two modern-day Quixotes-the last survivors of an underground 
+        literary movement, perhaps of literature itself-on a tragicomic quest through a darkening, 
+        entropic universe: our own. The Savage Detectives is an exuberant, raunchy, wildly inventive, 
+        and ambitious novel from one of the greatest Latin American authors of our age.</p>
+  </div>
         <img src="https://m.media-amazon.com/images/I/81dlFzCF+LS.jpg" alt="savage">
         <p class="author">Roberto Bolaño</p>
         <p class="title">THE SAVAGE DETECTIVES</p>
@@ -691,7 +981,16 @@
       </div>
 
       <div class="box">
+       
         <div class="info-icon">i</div>
+        <div class="box-overlay">
+    <p>Hong Gildong, the brilliant but illegitimate son of a noble government minister, cannot advance in 
+        society due to his second-class status, so he leaves home and becomes the leader of a band of outlaws. 
+        On the way to building his own empire and gaining acceptance from his family, Hong Gildong vanquishes 
+        assassins, battles monsters, and conquers kingdoms. Minsoo Kang’s expressive and lively new translation 
+        finally makes the authoritative text of this premodern tale available in English, reintroducing a noble 
+        and righteous outlaw and sharing a beloved hallmark of Korean culture.</p>
+  </div>
         <img src="https://m.media-amazon.com/images/I/91DeIIICwzL.jpg" alt="hong">
         <p class="author">N/A</p>
         <p class="title">THE STORY OF HONG GILDONG</p>
@@ -699,7 +998,17 @@
       </div>
 
       <div class="box">
+       
         <div class="info-icon">i</div>
+        <div class="box-overlay">
+    <p>William Stoner is born at the end of the nineteenth century into a dirt-poor Missouri farming family. 
+        Sent to the state university to study agronomy, he instead falls in love with English literature and 
+        embraces a scholar’s life, so different from the hardscrabble existence he has known. And yet as the 
+        years pass, Stoner encounters a succession of disappointments: marriage into a “proper” family estranges
+         him from his parents; his career is stymied; his wife and daughter turn coldly away from him; a 
+         transforming experience of new love ends under threat of scandal. Driven ever deeper within himself,
+          Stoner rediscovers the stoic silence of his forebears and confronts an essential solitude.</p>
+  </div>
         <img src="https://www.texasobserver.org/wp-content/uploads/2013/10/stonerbook.jpg" alt="Plath">
         <p class="author">John Williams/p>
         <p class="title">STONER</p>
@@ -708,7 +1017,11 @@
 
 
       <div class="box">
+       
         <div class="info-icon">i</div>
+        <div class="box-overlay">
+    <p>The biography of the Communist leader introduces the young reader to the social and political history of Soviet Russia.</p>
+  </div>
         <img src="https://m.media-amazon.com/images/I/41ywoiTJBhL._AC_UF1000,1000_QL80_.jpg" alt="lenin">
         <p class="author">Nina Gourfinkel</p>
         <p class="title">LENIN</p>
@@ -716,7 +1029,14 @@
       </div>
 
       <div class="box">
+       
         <div class="info-icon">i</div>
+        <div class="box-overlay">
+    <p>In this witty classic short story Babette’s Feast, a mysterious French housekeeper, who is taken in by two 
+        Danish sisters, wins the lottery and as a gesture of gratitude prepares an extravagant and sumptuous feast 
+        for a gathering of religious, ascetic, aging villagers and, in doing so, introduces them to the true 
+        essence of charity and grace.</p>
+  </div>
         <img src="https://m.media-amazon.com/images/I/51MuHOIPLYL._AC_UF1000,1000_QL80_.jpg" alt="feast">
         <p class="author">Isak Dinesen</p>
         <p class="title">BABETTE'S FEAST</p>
@@ -724,12 +1044,172 @@
       </div>
 
       <div class="box">
+       
         <div class="info-icon">i</div>
+        <div class="box-overlay">
+    <p>Is BER-66 a human or a robot? His controllers, known as 'the Mechanism,' tell him he is a living machine, 
+        programmed to gather information on the inhabitants of the strange underground world he finds himself in. 
+        But as he penetrates its tunnels and locked rooms, encountering mysterious doppelgangers and a petrified 
+        city, he comes closer to the truth of his existence. Considered one of the most important Polish science 
+        fiction novels of all time, Robot is a haunting philosophical enquiry into the nature of our reality and 
+        our place in the universe.</p>
+  </div>
         <img src="https://m.media-amazon.com/images/I/91Wi6YNf55L._UF1000,1000_QL80_.jpg" alt="robot">
         <p class="author">Adam Wiśniewski-Snerg</p>
         <p class="title">ROBOT</p>
         <p class="genre">Fiction / Sci-fi</p>
       </div>
+
+
+      
+
+
+
+
+      <div class="box">
+       
+        <div class="info-icon">i</div>
+        <div class="box-overlay">
+    <p>In The Immoralist , André Gide presents the confessional account of a man seeking the truth of his own 
+        nature. The story's protagonist, Michel, knows nothing about love when he marries the gentle Marceline 
+        out of duty to his father. On the couple's honeymoon to Tunisia, Michel becomes very ill, and during 
+        his recovery he meets a young Arab boy whose radiant health and beauty captivate him. An awakening 
+        for him both sexually and morally, Michel discovers a new freedom in seeking to live according to
+         his own desires. But, as he also discovers, freedom can be a burden. </p>
+  </div>
+        <img src="https://eveningstarbooks-net.cdn.bibliopolis.com/pictures/000012538.jpg?auto=webp&v=1675872424" alt="germinal">
+        <p class="author">André Gide</p>
+        <p class="title">THE IMMORALIST</p>
+        <p class="genre">Fiction </p>
+      </div>
+
+      <div class="box">
+       
+        <div class="info-icon">i</div>
+        <div class="box-overlay">
+    <p>Kurt Vonnegut’s first novel spins the chilling tale of engineer Paul Proteus, who must find a way to live 
+        in a world dominated by a supercomputer and run completely by machines. Paul’s rebellion is vintage 
+        Vonnegut—wildly funny, deadly serious, and terrifyingly close to reality.</p>
+  </div>
+        <img src="https://m.media-amazon.com/images/I/81pv6V0FlgL._AC_UF1000,1000_QL80_.jpg" alt="savage">
+        <p class="author">Kurt Vonnegut</p>
+        <p class="title">PLAYER PIANO</p>
+        <p class="genre">Fiction / Sci-Fi</p>
+      </div>
+
+      <div class="box">
+       
+        <div class="info-icon">i</div>
+        <div class="box-overlay">
+    <p>One hot spring, the devil arrives in Moscow, accompanied by a retinue that includes a beautiful naked witch
+         and an immense talking black cat with a fondness for chess and vodka. The visitors quickly wreak havoc 
+         in a city that refuses to believe in either God or Satan. But they also bring peace to two unhappy
+          Muscovites: one is the Master, a writer pilloried for daring to write a novel about Christ and Pontius 
+          Pilate; the other is Margarita, who loves the Master so deeply that she is willing literally to go to 
+          hell for him. What ensues is a novel of inexhaustible energy, humor, and philosophical depth, a work 
+          whose nuances emerge for the first time</p>
+  </div>
+        <img src="https://groveatlantic.com/core/wp-content/uploads/2017/04/9780802130112.jpg" alt="hong">
+        <p class="author">Mikhail Bulgakov</p>
+        <p class="title">THE MASTER AND MARGARITA</p>
+        <p class="genre">Fiction / Satire / Magical Realism</p>
+      </div>
+
+      <div class="box">
+       
+        <div class="info-icon">i</div>
+        <div class="box-overlay">
+    <p>One of the greatest novels ever written, Anna Karenina sets the impossible and destructive triangle of 
+        Anna, her husband Karenin, and her lover Vronsky against the marriage of Levin and Kitty, thus 
+        illuminating the most important questions that face humanity. The second edition uses the acclaimed 
+        Louise and Alymer Maude translation, and offers a new introduction and notes which provide completely 
+        up-to-date perspectives on Tolstoy's classic work.</p>
+  </div>
+        <img src="https://m.media-amazon.com/images/I/51z36Wybt4L._AC_UF1000,1000_QL80_.jpg" alt="Plath">
+        <p class="author">Leo Tolstoy/p>
+        <p class="title">ANNA KARENINA</p>
+        <p class="genre">Fiction / Classics</p>
+      </div>
+
+
+      <div class="box">
+       
+        <div class="info-icon">i</div>
+        <div class="box-overlay">
+    <p>One Hundred Years of Solitude tells the story of the rise and fall, birth and death of the mythical town of Macondo through 
+        the history of the Buendiá family. Inventive, amusing, magnetic, sad and alive with unforgettable men and women—brimming with 
+        truth, compassion, and a lyrical magic that strikes the soul—this novel is a masterpiece in the art of fiction.</p>
+  </div>
+        <img src="https://preview.redd.it/gabriel-garcia-marquez-one-hundred-years-of-solitude-avon-v0-n1id4pdvo5cd1.jpg?width=1080&crop=smart&auto=webp&s=db71007bf936c95c38e336d51ba400ffda1ce91e" alt="lenin">
+        <p class="author">Gabriel García Márquez</p>
+        <p class="title">ONE HUNDRED YEARS OF SOLITUDE</p>
+        <p class="genre">Fiction / Magical Realism </p>
+      </div>
+
+      <div class="box">
+       
+        <div class="info-icon">i</div>
+        <div class="box-overlay">
+    <p>Set in a small town in the middle of the deep South, it is the story of John Singer, a lonely deaf-mute, and a disparate group of 
+        people who are drawn towards his kind, sympathetic nature. The owner of the café where Singer eats every day, a young girl 
+        desperate to grow up, an angry drunkard, a frustrated black doctor: each pours their heart out to Singer, their silent confidant, 
+        and he in turn changes their disenchanted lives in ways they could never imagine.</p>
+  </div>
+        <img src="https://m.media-amazon.com/images/I/717Q9PYC5HL._AC_UF1000,1000_QL80_.gif" alt="feast">
+        <p class="author">Carson McCullers</p>
+        <p class="title">THE HEART IS A LONELY HUNTER</p>
+        <p class="genre">Fiction</p>
+      </div>
+
+      <div class="box">
+       
+        <div class="info-icon">i</div>
+        <div class="box-overlay">
+    <p>Here is Ignatius Reilly: slob extraordinary, a mad Oliver Hardy, a fat Don Quixote, a perverse Thomas Aquinas rolled into one, 
+        who is in violent revolt against the entire modern age, lying in his flannel nightshirt in a back bedroom on Constantinople 
+        Street in New Orleans, who between gigantic seizures of flatulence and eructations is filling dozens of Big Chief tablets with 
+        invective.</p>
+  </div>
+        <img src="https://m.media-amazon.com/images/I/71e62bAUrKL._AC_UF1000,1000_QL80_.jpg" alt="robot">
+        <p class="author">John Kennedy Toole</p>
+        <p class="title">A CONFEDERACY OF DUNCES</p>
+        <p class="genre">Fiction / Humour</p>
+      </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
       <div class="box">
         <div class="info-icon">i</div>
@@ -782,60 +1262,4 @@
 
       
 
-    
 
-      <div class="box">
-        <div class="info-icon">i</div>
-        <img class="u-full-width" src="batman.png" alt="Photo of grandfather" />
-        <p class="author">Movie Ticket</p>
-        <p class="title">DARK KNIGHT</p>
-        <p class="genre"></p>
-      </div>
-
-      <div class="box">
-        <div class="info-icon">i</div>
-        <img src="perfectdays.png">
-        <p class="author">Movie Ticket</p>
-        <p class="title">PERFECT DAYS</p>
-        <p class="genre"></p>
-      </div>
-
-      <div class="box">
-        <div class="info-icon">i</div>
-        <img src="napoleon02.png" alt="Nietzsche">
-        <p class="author">Movie Ticket</p>
-        <p class="title">NAPOLEON</p>
-        <p class="genre"></p>
-      </div>
-
-      <div class="box">
-        <div class="info-icon">i</div>
-        <img src="anatomy02.png">
-        <p class="author">Movie Ticket</p>
-        <p class="title">ANATOMY OF A FALL</p>
-        <p class="genre"></p>
-      </div>
-
-      <div class="box">
-        <div class="info-icon">i</div>
-        <img src="killersof.png" alt="Nietzsche">
-        <p class="author">Movie Ticket</p>
-        <p class="title">KILLERS OF A FLOWER MOON</p>
-        <p class="genre"></p>
-      </div>
-
-      <div class="box">
-        <div class="info-icon">i</div>
-        <img src="maomug.png" alt="maomug">
-        <p class="author">Mug</p>
-        <p class="title">KILLERS OF A FLOWER MOON</p>
-        <p class="genre"></p>
-      </div>
-
-      <div class="box">
-        <div class="info-icon">i</div>
-        <img src="maomug.png" alt="maomug">
-        <p class="author">Mug</p>
-        <p class="title">KILLERS OF A FLOWER MOON</p>
-        <p class="genre"></p>
-      </div>
