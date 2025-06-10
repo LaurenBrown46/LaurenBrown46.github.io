@@ -207,8 +207,10 @@
       height: auto; 
     }
   }
-  
+
  
+  
+
   html {
     scroll-behavior: smooth;
   }
